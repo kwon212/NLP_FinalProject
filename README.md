@@ -3,6 +3,11 @@
 Prof.Chiang's NLP Class Final Project:
 Classify the Proficiency Level of a Written Text
 
+Data folder contains all written texts and csv files from the ETS TOEFL corpus.
+data parsing is done within src code.
+
+Src folder contains all code:
+
 guessFrequent.py
 
 Guess the most frequently occuring level from the training data.
