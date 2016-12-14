@@ -12,6 +12,10 @@ guessFrequent.py
 
 Guess the most frequently occuring level from the training data.
 
+naivebayes.py
+
+Use naive Bayes to guess probability of each level occurring with a bag of words vocabulary.
+
 logisticregression.py
 
 Use logistic regression to guess the proficiency level using a bag of words vocabulary.
